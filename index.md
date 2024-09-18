@@ -6,6 +6,8 @@ image: /images/mario_animation.png
 hide: true
 ---
 
+<!DOCTYPE html>
+<html lang="en">
 <p>Other Pages</p>
 
 <table>
