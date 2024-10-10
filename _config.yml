@@ -26,4 +26,6 @@ header_pages:
   - navigation/journey.md
   - navigation/videogameblog.md
   - README4YML.md
-
+  - navigation/snake.md
+  - navigation/calculator.md
+  - navigation/cookie_clicker.md
