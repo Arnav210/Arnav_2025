@@ -5,7 +5,7 @@ permalink: /journey/
 ---
 
 <html lang="en">
-    <button><a href="http://127.0.0.1:4100/Arnav_2025/">Home</a></button>
+    <button><a href="https://arnav210.github.io/Arnav_2025/">Home</a></button>
 
     <h3>My Journey through the Tools Setup</h3>
 

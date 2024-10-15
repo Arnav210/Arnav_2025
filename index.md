@@ -11,9 +11,9 @@ hide: true
     <p>Other Pages</p>
     <table>
         <tr>
-            <td><a href="http://127.0.0.1:4100/Arnav_2025/about/" style="background-color:powderblue;">About</a></td>
-            <td><a href="http://127.0.0.1:4100/Arnav_2025/journey/" style="background-color:lightgray;">My Journey</a></td>
-            <td><a href="http://127.0.0.1:4100/Arnav_2025/videogameblog/" style="background-color:powderblue;">Video Game Blog</a></td>
+            <td><a href="https://arnav210.github.io/Arnav_2025/about/" style="background-color:powderblue;">About</a></td>
+            <td><a href="https://arnav210.github.io/Arnav_2025/journey/" style="background-color:lightgray;">My Journey</a></td>
+            <td><a href="https://arnav210.github.io/Arnav_2025/videogameblog/" style="background-color:powderblue;">Video Game Blog</a></td>
         </tr>
     </table>
     <div>

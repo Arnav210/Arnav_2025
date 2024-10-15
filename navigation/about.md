@@ -5,7 +5,7 @@ permalink: /about/
 comments: True
 ---
 
-<button><a href="http://127.0.0.1:4100/Arnav_2025/">Home</a></button>
+<button><a href="https://arnav210.github.io/Arnav_2025/">Home</a></button>
 Hi, my name is Arnav Mittal.
 <div>
 <h3>Some facts about me:</h3>
