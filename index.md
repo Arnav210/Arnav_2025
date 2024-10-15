@@ -16,7 +16,6 @@ hide: true
             <td><a href="http://127.0.0.1:4100/Arnav_2025/videogameblog/" style="background-color:powderblue;">Video Game Blog</a></td>
         </tr>
     </table>
-    Hi, I'm Arnav, and welcome to my page. Check out my about me and my journey! There's not much here right now, but hopefully that'll change throughout the year. 
     <div>
     <p>This is just an empty button for now...</p>
     <button>Button</button>
